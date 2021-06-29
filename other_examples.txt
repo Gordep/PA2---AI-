@@ -1,0 +1,39 @@
+java -jar pa2.jar 100 500 200 10 1 123456
+
+Number of Buildings: 100
+Number of Rooms: 500
+Number of Courses: 200
+Time limit (s): 10
+Algorithm number: 1
+Random seed: 123456
+BackTacking Algorithms is selected
+Deadline: 1618198587902
+Current: 1618198577903
+Time remaining: 9999
+
+Score: 2282.5586332616967
+
+
+*************************************************
+java -jar pa2.jar 100 500 200 10 2 123456
+
+Number of Buildings: 100
+Number of Rooms: 500
+Number of Courses: 200
+Time limit (s): 10
+Algorithm number: 2
+Random seed: 123456
+Genetic Algorithms is selected
+ERROR: invalid schedule dimensions
+ERROR: invalid schedule dimensions
+ERROR: invalid schedule dimensions
+ERROR: invalid schedule dimensions
+ERROR: invalid schedule dimensions
+ERROR: invalid schedule dimensions
+ERROR: invalid schedule dimensions
+Deadline: 1618198592360
+Current: 1618198583848
+Time remaining: 8512
+
+Score: 1092937.320598088
+
